@@ -1,0 +1,47 @@
+[
+    {
+      "fname": "Auston",
+      "lname": "Matthews",
+      "birthday": "03/25/1998",
+      "number": 34,
+      "playerType": "sniper",
+      "points": 108,
+      "salary": 11600000
+    },
+    {
+      "fname": "Mitch",
+      "lname": "Marner",
+      "birthday": "10/15/1997",
+      "number": 16,
+      "playerType": "playmaker",
+      "points": 91,
+      "salary": 11000000
+    },
+    {
+      "fname": "Morgan",
+      "lname": "Reilly",
+      "birthday": "07/04/1994",
+      "number": 44,
+      "playerType": "offensive defencemen",
+      "points": 62,
+      "salary": 7000000
+    },
+    {
+      "fname": "William",
+      "lname": "Nylander",
+      "birthday": "09/22/1996",
+      "number": 88,
+      "playerType": "sniper",
+      "points": 95,
+      "salary": 7500000
+    },
+    {
+      "fname": "TJ",
+      "lname": "Brodie",
+      "birthday": "10/05/1990",
+      "number": 58,
+      "playerType": "Defensive defencemen",
+      "points": 24,
+      "salary": 5000000
+    }
+  ]
